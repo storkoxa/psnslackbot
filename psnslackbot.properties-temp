@@ -1,0 +1,5 @@
+#PSN  NPSSO (https://ca.account.sony.com/api/v1/ssocookie)
+npsso=PYkIiwWNd8AEPYkIiwWNd8AEPYkIiwWNd8AEPYkIiwWNd8AEPYkIiwWNd8AEPYkIiwWNd8AEFAKE
+
+#Slack Webhook
+webhook="https://hooks.slack.com/services/XXXX/YYYY/ZZZZZ"

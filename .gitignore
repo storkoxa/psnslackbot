@@ -1,0 +1,7 @@
+psnslackbot.properties
+*.db
+logs/
+node_modules/
+payloads/*
+quickscripts.js
+package-lock.json
